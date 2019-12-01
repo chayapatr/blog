@@ -7,7 +7,8 @@ ghost()
     ghostServer.start() 
     setInterval(() => {
       axios.get('https://chayapatr.herokuapp.com')
-    }, 1000 * 60 * 1)
+      .then(el => console.log("yup"))
+    }, 1000 * 60 * 15)
   })
   .catch( error => {
     console.error(`Ghost server error: ${error.message} ${error.stack}`);
