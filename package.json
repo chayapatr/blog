@@ -11,8 +11,10 @@
   "version": "3.0.0",
   "dependencies": {
     "attila": "github:zutrinken/attila#1.13.0",
+    "axios": "^0.19.0",
     "bleak": "github:zutrinken/bleak#1.4.0",
     "casper": "github:tryghost/Casper",
+    "casper-pub": "github:chayapatr/casper-pub",
     "ghost": "^3.0.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.0",

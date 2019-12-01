@@ -6,6 +6,7 @@ themes=(
 	bleak
 	the-shell
 	vapor
+	casper-pub
 )
 
 for theme in "${themes[@]}"
