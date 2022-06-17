@@ -15,7 +15,7 @@
     "bleak": "github:zutrinken/bleak#1.4.0",
     "casper": "github:tryghost/Casper",
     "casper-pub": "github:chayapatr/casper-pub",
-    "ghost": "^3.0.0",
+    "ghost": "^4.48.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.0",
     "london": "github:tryghost/london#1.0.0",
